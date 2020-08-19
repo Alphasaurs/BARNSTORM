@@ -1,6 +1,6 @@
 # BARNSTORM
 An augmented reality based app for indoor navigation.
-<img src="client/BARNSTORM.png">
+<img src="6/BARNSTORM.png">
 
 
 
